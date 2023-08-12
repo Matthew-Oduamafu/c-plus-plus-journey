@@ -1,0 +1,3 @@
+D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/GettingStarted.dir
+D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/rebuild_cache.dir

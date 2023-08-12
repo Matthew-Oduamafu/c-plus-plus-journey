@@ -1,0 +1,24 @@
+# ninja log v5
+0	949	7130681518478608	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+952	1178	7130681520457371	GettingStarted.exe	e7a807df71f9c8b5
+21	200	7130693311160355	CMakeFiles/GettingStarted.dir/anotherClass.cpp.obj	eb469a4ab8242b49
+7	702	7130693316211185	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+703	879	7130693317883664	GettingStarted.exe	a3a9582006ed841c
+11	739	7132264951551443	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+739	1165	7132264955764294	GettingStarted.exe	a3a9582006ed841c
+5	693	7132265164376558	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+693	876	7132265166226424	GettingStarted.exe	a3a9582006ed841c
+10	789	7132265278136911	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+790	980	7132265279939168	GettingStarted.exe	a3a9582006ed841c
+5	1614	7134965429517325	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+1614	2162	7134965435207057	GettingStarted.exe	a3a9582006ed841c
+9	1330	7134971365624837	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+1331	1580	7134971368109741	GettingStarted.exe	a3a9582006ed841c
+5	986	7135399740732851	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+986	1229	7135399743016442	GettingStarted.exe	a3a9582006ed841c
+5	652	7135400021810258	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+652	780	7135400023105475	GettingStarted.exe	a3a9582006ed841c
+5	529	7135414812910192	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+529	654	7135414814106458	GettingStarted.exe	a3a9582006ed841c
+7	523	7135414969800863	CMakeFiles/GettingStarted.dir/main.cpp.obj	c68391b72d50ddd3
+524	643	7135414970953104	GettingStarted.exe	a3a9582006ed841c
