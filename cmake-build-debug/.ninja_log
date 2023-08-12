@@ -1,0 +1,13 @@
+# ninja log v5
+4	543	7135572320814417	CMakeFiles/C_plus_plus_Program_structure.dir/main.cpp.obj	b46be7a170547ea5
+4	120	7135579872147331	C_plus_plus_Program_structure.exe	64640be2822d83c2
+8	597	7135575175973918	CMakeFiles/C_plus_plus_Program_structure.dir/basicIO.cpp.obj	b2673d0b48047e1b
+1	189	7135580780838767	build.ninja	4e7939224cd794fe
+0	568	7135581042795741	CMakeFiles/C_plus_plus_Program_structure_0.dir/basicIO.cpp.obj	7b3293a2b66d2b2b
+568	685	7135581043935050	C_plus_plus_Program_structure_0.exe	f1ee4e37b501a3ca
+6	963	7135589177252197	CMakeFiles/C_plus_plus_Program_structure_0.dir/basicIO.cpp.obj	7b3293a2b66d2b2b
+963	1193	7135589179506531	C_plus_plus_Program_structure_0.exe	f1ee4e37b501a3ca
+4	634	7135590192912459	CMakeFiles/C_plus_plus_Program_structure_0.dir/basicIO.cpp.obj	7b3293a2b66d2b2b
+635	811	7135590194623869	C_plus_plus_Program_structure_0.exe	f1ee4e37b501a3ca
+6	549	7135592536147347	CMakeFiles/C_plus_plus_Program_structure_0.dir/basicIO.cpp.obj	7b3293a2b66d2b2b
+550	670	7135592537302266	C_plus_plus_Program_structure_0.exe	f1ee4e37b501a3ca
