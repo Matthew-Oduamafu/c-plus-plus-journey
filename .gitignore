@@ -1,0 +1,18 @@
+# CLion IDE
+.idea/
+
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled executables
+*.exe
+*.out
+
+# CMake build directory
+cmake-build-*/
+
+# Visual Studio Code
+.vscode/
