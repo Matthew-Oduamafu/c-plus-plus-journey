@@ -1,3 +1,3 @@
-D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/GettingStarted.dir
-D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Codes/CC++/GettingStarted/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matthew/matthew/Code/c_plus_plus/c-plus-plus-journey/cmake-build-debug/CMakeFiles/GettingStarted.dir
+/Users/matthew/matthew/Code/c_plus_plus/c-plus-plus-journey/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthew/matthew/Code/c_plus_plus/c-plus-plus-journey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
